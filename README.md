@@ -47,7 +47,7 @@ To apply data preprocessing, exploratory data analysis (EDA), and machine learni
 | **Matplotlib / Seaborn** | Data visualization     |
 | **Scikit-learn**| ML model building and evaluation|
 | **Jupyter Notebook** | Interactive development    |
-| **RapidMiner** | Visual ML modeling (optional)   |
+| **RapidMiner** | Visual ML modeling |
 
 ---
 
